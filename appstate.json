@@ -1,1 +1,66 @@
-Nhớ giữ credit nhé!
+[
+  {
+    "key": "locale",
+    "value": "vi_VN",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "c_user",
+    "value": "100048447802104",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "0PAS6NtkTHLpwVKNF.AWfRwg-JKEdBFzQcIQza3ix-F39K1fjk2vg5p8eboXj-YSCzHBI.BpGVYZ..AAA.0.0.BpGVZC.AWeHkoGf1xH-jMl8Mj3PdQzYxQI",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "wl_cbv",
+    "value": "v2%3Bclient_version%3A2986%3Btimestamp%3A1763268162",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "QFYZacKhcyfmqUHooKZ8aT4T",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "2%3AjCm5Cw6NdNPaTA%3A2%3A1763268154%3A-1%3A-1",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "pas",
+    "value": "100048447802104%3AMKh2RoYPAg",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "",
+    "value": "",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  }
+]
