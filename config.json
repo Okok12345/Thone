@@ -4,17 +4,17 @@
     "MAINTENANCE": false,
     "allowInbox": false,
     "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "AMDIN_NAME": "Trần Danh Thọ",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "https://facebook.com/tdt29082008",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "tdt29082008",
         ""
     ],
     "NDH": [
-        "",
+        "tdt29082008",
         ""
     ],
     "autoCleanCache": {
